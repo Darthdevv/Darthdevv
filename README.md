@@ -104,7 +104,8 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Darthdevv&icon=2&color=12)](https://visitcount.itsvg.in)
