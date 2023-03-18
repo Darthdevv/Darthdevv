@@ -6,9 +6,8 @@ I am a Frontend Developer 👨🏻‍💻
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer and looking forward to learn Backend development 🚀
 
-* 🌍  I'm based in Cairo, 6th of October
-* 🧠  I'm learning Astro and solid
-* 🤝  I'm open to collaborating on intresting projects
+# 💫 About Me:
+🔭 I’m currently working on Projects<br>🌍  I'm based in Cairo, 6th of October<br>🧠  I'm learning Astro and solid<br>🤝  I'm open to collaborating on new projects<br>💬 Ask me about JavaScript and React<br>🔥♥️ Fun fact is you guessed right , i am a huge fan of Star Wars<br>🎮 🎞️ I enjoy playing video games and watching movies 
 
 
 ## 🌐 Socials:
