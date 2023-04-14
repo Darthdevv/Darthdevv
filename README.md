@@ -88,7 +88,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+[![Dartdevv github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&theme=high-contrast&hide_border=true)](https://github.com/Darthdevv/github-readme-activity-graph)
 <a href="http://www.github.com/Darthdevv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&bg_color=171717&color=ffffff&line=f97316&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
