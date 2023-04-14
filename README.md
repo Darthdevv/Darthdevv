@@ -9,7 +9,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yousef Tarek
 ====================================================================================================================================
 
-I am a Frontend Developer 👨🏻‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=005871&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 ---------------------------------
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer and looking forward to learn Backend development 🚀
