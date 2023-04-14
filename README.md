@@ -86,7 +86,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 ![](https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![Darthdevv github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Darthdevv github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&theme=high-contrast&hide_border=true&line=005871)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -95,8 +95,12 @@ I have been learning to code for almost a year , i started with Html and Css and
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Darthdevv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Darthdevv&icon=5&color=12)](https://visitcount.itsvg.in)
+<img align="right" src="https://profile-counter.glitch.me/Dartg/count.svg?"  />
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
