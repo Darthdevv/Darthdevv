@@ -83,17 +83,23 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
+
+
 [![Darthdevv github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&theme=high-contrast&hide_border=true&line=005871)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-contributor-stats.vercel.app/api?username=Darthdevv&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+<img height="242px" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Darthdevv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Darthdevv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"/>
 
 
 ---
