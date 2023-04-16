@@ -83,10 +83,10 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 # 📊 GitHub Stats:
-<div align="center">
+
 <img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true"/>
 <img float="right" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
-</div>
+
 
 [![Darthdevv github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&theme=high-contrast&hide_border=true&line=005871)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
