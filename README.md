@@ -87,9 +87,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 <img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true"/>
 <img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
 
-
-[![Darthdevv github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Darthdevv&theme=high-contrast&hide_border=true&line=005871)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=high-contrast&color=ffffff&line=005871&hide_border=true)
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Darthdevv&limit=5&theme=vision-friendly-dark&hide_border=true&combine_all_yearly_contributions=true"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
