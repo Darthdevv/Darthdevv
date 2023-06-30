@@ -2,11 +2,10 @@
   
 
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="left" height="100%" width="100%" />  
-  
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yousef Tarek
+Hi  <img src="https://user-images.githubusercontent.com/1534150/172605845-b63b82dc-cbff-46f1-b4b0-41c7db605ce8.gif" width="40" alt="Waving hand animation"> My name is Yousef Tarek
 ====================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=005871&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
