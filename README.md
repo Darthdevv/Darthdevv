@@ -11,7 +11,7 @@ Hi  <img src="https://user-images.githubusercontent.com/1534150/172605845-b63b82
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=005871&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 ---------------------------------
 
-I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer and looking forward to learn Backend development 🚀
+I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. and looking forward to learn Backend development 🚀
 
 # 💫 About Me:
 🔭 I’m currently working on Projects<br>🌍  I'm based in Cairo, 6th of October<br>🌱🧠I'm learning Next and TypeScript and looking forward to learn React Native and Backend development <br>🤝  I'm open to collaborating on new projects<br>💬 Ask me about JavaScript and React<br>🔥♥️ Fun fact is you guessed right , i am a huge fan of Star Wars<br>🎮 🎞️ I enjoy playing video games and watching movies 
