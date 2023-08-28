@@ -116,8 +116,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 ### 🐍 Snake eating my contributions
-![snake gif](https://github.com/Darthdevv/Darthdevv/blob/output/github-contribution-grid-snake.svg)
-![snake animation](https://github.com/<seu Darthdevv>/<seu Darthdevv>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Darthdevv/Darthdevv/blob/output/github-contribution-grid-snake2.svg)
 
 <img src="https://media1.giphy.com/media/1WprDBazmsM8M/giphy.gif?cid=ecf05e47w07rljwkjddie5m1a0jdbk6vqgt3rngha014kpfz&rid=giphy.gif&ct=g" align="left" height="" width="100%" />  
   
