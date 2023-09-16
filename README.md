@@ -17,12 +17,11 @@ I have been learning to code for almost a year , i started with Html and Css and
 🔭 I’m currently working on Projects<br>🌍  I'm based in Cairo, 6th of October<br>🌱🧠I'm learning Nodejs, Express and MongoDb <br> 💬 Ask me about JavaScript and React<br>🔥♥️ Fun fact is you guessed right , i am a huge fan of Star Wars<br>🎮 🎞️ I enjoy playing video games and watching movies 
 
 
-# 💻 Tech Stack: 
 <table><tr><td valign="top" width="33%">
 
 
 
-# <img src="https://camo.githubusercontent.com/afdb0176d69928e4780985a261de3b272482c223c0a42ce30c75fc34733046e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f557650767358396f4d6c4d57732f67697068792e676966" height="30px"/>  <span>Skills</span>
+# <img src="https://camo.githubusercontent.com/afdb0176d69928e4780985a261de3b272482c223c0a42ce30c75fc34733046e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f557650767358396f4d6c4d57732f67697068792e676966" height="30px"/>  <span>Tech Stack: </span>
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
