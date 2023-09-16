@@ -16,12 +16,8 @@ I have been learning to code for almost a year , i started with Html and Css and
 # 💫 About Me:
 🔭 I’m currently working on Projects<br>🌍  I'm based in Cairo, 6th of October<br>🌱🧠I'm learning Nodejs, Express and MongoDb <br> 💬 Ask me about JavaScript and React<br>🔥♥️ Fun fact is you guessed right , i am a huge fan of Star Wars<br>🎮 🎞️ I enjoy playing video games and watching movies 
 
-# 💻 Tech Stack:
- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)   ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
-
-
-## My Skill Set : 
+# 💻 Tech Stack: 
 <table><tr><td valign="top" width="33%">
 
 
