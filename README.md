@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" align="left" height="100%" width="100%" />  
+<img src="https://i.pinimg.com/originals/30/84/82/3084829ebdd6f87b79b2bfae2a6879a3.gif" align="left" height="100%" width="100%" />  
 
 ####
 
