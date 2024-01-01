@@ -6,7 +6,7 @@
  #  Hi 👋🏻 My name is Yousef Tarek
 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00ff59&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 ---------------------------------
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. and looking forward to learn Backend development 🚀
@@ -18,8 +18,8 @@ I have been learning to code for almost a year , i started with Html and Css and
 <table><tr><td valign="top" width="33%">
 
 
+# <img src='https://media.giphy.com/avatars/blinkiesCafe/xMAIAMI3245u/200h.gif' width='35' /><span>Tech Stack: </span>
 
-# ⌨️ <span>Tech Stack: </span>
 <div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -70,12 +70,12 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_green)
-<img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=shadow_green&"/>
-<img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=shadow_green&include_all_commits=false&count_private=false"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham)
+<img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=gotham&"/>
+<img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=gotham&include_all_commits=false&count_private=false"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=gotham&include_all_commits=false&count_private=false&layout=compact"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=high-contrast&color=ffffff&line=00ff59&hide_border=true)
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=shadow_green&include_all_commits=false&count_private=false&layout=compact"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=gotham&color=ffffff&line=279077&hide_border=true)
 
 
 
@@ -83,13 +83,12 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Darthdevv&theme=darkhub&no-frame=false&no-bg=false&margin-w=4"/>
+![](https://github-profile-trophy.vercel.app/?username=darthdevv&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Darthdevv&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Darthdevv&icon=5&color=8)](https://visitcount.itsvg.in)
 <img align="right" src="https://profile-counter.glitch.me/Dartg/count.svg?"  />
 
 ###
@@ -100,5 +99,8 @@ I have been learning to code for almost a year , i started with Html and Css and
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_green)
 
 
+
+###
   
-<img src="https://camo.githubusercontent.com/3c96d0521a7b2d46a0958533b48915bec6caad3c14fba734bfc85c489fd65a32/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302677696474683d3333302673656374696f6e3d666f6f746572" height="" width="100%"/>
+
+
