@@ -71,8 +71,8 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham)
-<img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=gotham&"/>
 <img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=gotham&include_all_commits=false&count_private=false"/>
+<img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=gotham&"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=gotham&include_all_commits=false&count_private=false&layout=compact"/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=gotham&color=ffffff&line=279077&hide_border=true)
