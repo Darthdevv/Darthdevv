@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/30/84/82/3084829ebdd6f87b79b2bfae2a6879a3.gif" align="left" height="100%" width="100%" />  
+<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" align="left" height="100%" width="100%" />  
 
 ####
 
@@ -6,7 +6,7 @@
  #  Hi 👋🏻 My name is Yousef Tarek 
 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=005871&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00ff59&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
 ---------------------------------
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. and looking forward to learn Backend development 🚀
@@ -19,16 +19,28 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 
-# <img src="https://camo.githubusercontent.com/afdb0176d69928e4780985a261de3b272482c223c0a42ce30c75fc34733046e7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f557650767358396f4d6c4d57732f67697068792e676966" height="30px"/>  <span>Tech Stack: </span>
+# ⌨️ <span>Tech Stack: </span>
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-<a href="https://reactjs.org" target="_blank"><img style="margin: 10px" src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="React" height="50" /></a>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+</div>
 
   
 
@@ -69,7 +81,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 <img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true"/>
 <img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=high-contrast&color=ffffff&line=005871&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=high-contrast&color=ffffff&line=00ff59&hide_border=true)
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Darthdevv&limit=5&theme=vision-friendly-dark&hide_border=true&combine_all_yearly_contributions=true"/>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
