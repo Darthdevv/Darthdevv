@@ -11,7 +11,7 @@
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. and looking forward to learn Backend development 🚀
 
-# <img src='https://i.pinimg.com/originals/96/4c/82/964c82250ef9951e3309b8e36d2bf9b9.gif' width='40'/> 🙋🏻‍♂️ 👨🏻‍💻 📝About Me:
+# <img src='https://i.pinimg.com/originals/96/4c/82/964c82250ef9951e3309b8e36d2bf9b9.gif' width='35'/> About Me:
 🔭 I’m currently working on Projects<br>🌍  I'm based in Cairo, 6th of October<br>🌱🧠I'm learning Nodejs, Express and MongoDb <br> 💬 Ask me about JavaScript and React<br>🔥♥️ Fun fact is you guessed right , i am a huge fan of Star Wars<br>🎮 🎞️ I enjoy playing video games and watching movies 
 
 
