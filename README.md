@@ -1,9 +1,9 @@
 <img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" align="left" height="100%" width="100%" />  
 
 
-<br>
 
- #  Hi 👋🏻 My name is Yousef Tarek 
+---------------------------------
+ #  Hi 👋🏻 My name is Yousef Tarek
 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00ff59&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
