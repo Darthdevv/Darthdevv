@@ -45,14 +45,7 @@ I have been learning to code for almost a year , i started with Html and Css and
   
 
 
-###
-</div>
 
-###
-</div>
-
-###
-</div>
 
 ## 🌐 Socials:
 <div align="left">
@@ -77,14 +70,12 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 # 📊 GitHub Stats:
-
-<img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=vision-friendly-dark&hide_border=true"/>
-<img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_green)
+<img align="left" width="390pxpx" src="https://github-readme-streak-stats.herokuapp.com/?user=Darthdevv&theme=shadow_green&"/>
+<img width="390px" src="https://github-readme-stats.vercel.app/api?username=Darthdevv&theme=shadow_green&include_all_commits=false&count_private=false"/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darthdevv&theme=high-contrast&color=ffffff&line=00ff59&hide_border=true)
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Darthdevv&limit=5&theme=vision-friendly-dark&hide_border=true&combine_all_yearly_contributions=true"/>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darthdevv&theme=shadow_green&include_all_commits=false&count_private=false&layout=compact"/>
 
 
 
@@ -106,7 +97,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=shadow_green)
 
 
   
