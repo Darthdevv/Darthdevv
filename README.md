@@ -3,7 +3,7 @@
  #  Hi 👋🏻 My name is Yousef Tarek
 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I+am+a+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I+am+a+Fullstack+Developer)](https://git.io/typing-svg)
 ---------------------------------
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. and looking forward to learn Backend development 🚀
@@ -28,6 +28,7 @@ I have been learning to code for almost a year , i started with Html and Css and
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
