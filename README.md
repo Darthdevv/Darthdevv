@@ -3,7 +3,7 @@
  #  Hi 👋🏻 My name is Yousef Tarek
 
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I+am+a+Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=279077&width=435&lines=I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 ---------------------------------
 
 I have been learning to code for almost a year , i started with Html and Css and this is when i found my passion now i am a react developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. and looking forward to learn Backend development 🚀
