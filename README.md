@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" align="left" height="100%" width="100%" />&nbsp;
+<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" align="center" height="1200" width="1200" />&nbsp;
 
  #  Hi 👋🏻 My name is Yousef Tarek
 
@@ -110,7 +110,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 ###
 
-<img src="./assets/github-snake.svg" align="left" height="100%" width="100%" />&nbsp;
+<img src="./assets/github-snake.svg" align="left" height="1200" width="1200" />&nbsp;
 
 
 
