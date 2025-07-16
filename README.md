@@ -119,7 +119,7 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 ###
 
-<img src="./assets/github-snake.svg" align="left" height="1200" width="1200" />&nbsp;
+<img src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph-dark.svg">
