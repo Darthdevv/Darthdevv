@@ -116,11 +116,21 @@ I have been learning to code for almost a year , i started with Html and Css and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
 <img src="./assets/github-snake.svg" align="left" height="1200" width="1200" />&nbsp;
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
