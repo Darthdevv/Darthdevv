@@ -121,12 +121,14 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 <img src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/snake.svg" alt="Snake animation" />
 
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 
