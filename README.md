@@ -116,11 +116,6 @@ I have been learning to code for almost a year , i started with Html and Css and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
-###
-
-<img src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
