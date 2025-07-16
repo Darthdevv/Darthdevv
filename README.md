@@ -106,8 +106,8 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Darthdevv&icon=5&color=8)](https://visitcount.itsvg.in)
-<img align="right" src="https://profile-counter.glitch.me/Dartg/count.svg?"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Darthdevv.Darthdevv&left_color=black&right_color=seagreen&left_text=people%20visited%20my%20page"  />
+
 
 ###
 
@@ -116,11 +116,6 @@ I have been learning to code for almost a year , i started with Html and Css and
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Darthdevv/Darthdevv/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
