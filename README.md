@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" align="center" height="1200" width="1200" />&nbsp;
+<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" align="center" height="100%" width="100%" />&nbsp;
 
  #  Hi 👋🏻 My name is Yousef Tarek
 
@@ -60,6 +60,7 @@ I have been learning to code for almost a year , i started with Html and Css and
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="60" alt="jest logo"  />
 </div>
+</td></tr></table>
 
   
 
@@ -67,23 +68,13 @@ I have been learning to code for almost a year , i started with Html and Css and
 
 
 ## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/yousef-tarek-3a7467263/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/yousefg0hary" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/yousef.algohary.33" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/yousefalgohary/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="yousefelgohary455@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/yousef-tarek-3a7467263/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/></a>
+<a href="https://twitter.com/yousefg0hary" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"/></a>
+<a href="https://www.facebook.com/yousef.algohary.33" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52"/></a>
+<a href="https://www.instagram.com/yousefalgohary/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/></a>
+<a href="mailto:yousefelgohary455@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/></a>
+</p>
 
 ###
 
