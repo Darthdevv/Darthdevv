@@ -46,6 +46,8 @@ I have been learning to code for almost a year , i started with Html and Css and
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
@@ -54,6 +56,7 @@ I have been learning to code for almost a year , i started with Html and Css and
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
